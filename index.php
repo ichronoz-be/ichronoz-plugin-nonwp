@@ -247,7 +247,7 @@ function rupiah($amount)
                 <p class="mt-4 mb-4">
                     Experience premium hospitality, beautiful rooms,
                     unforgettable views, and exceptional service at
-                    Azure Bay Hotel.
+                    iChronoz Demo Hotel.
                 </p>
 
                 <a href="#rooms" class="btn btn-warning btn-lg px-4 me-2">
@@ -501,7 +501,7 @@ function rupiah($amount)
                 </h2>
 
                 <p class="text-secondary fs-5 mt-4">
-                    Azure Bay Hotel combines modern comfort with warm
+                    iChronoz Demo Hotel combines modern comfort with warm
                     hospitality. Our mission is to provide every guest
                     with a relaxing and memorable stay.
                 </p>
@@ -675,7 +675,7 @@ function rupiah($amount)
             <div class="col-lg-5">
 
                 <h3 class="fw-bold">
-                    Azure Bay Hotel
+                    iChronoz Demo Hotel
                 </h3>
 
                 <p class="text-white-50 mt-3">
@@ -749,7 +749,7 @@ function rupiah($amount)
         <hr class="border-secondary mt-5">
 
         <div class="text-center text-white-50">
-            &copy; <?= $currentYear ?> Azure Bay Hotel.
+            &copy; <?= $currentYear ?> iChronoz Demo Hotel.
             All rights reserved.
         </div>
 
