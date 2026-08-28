@@ -1,5 +1,5 @@
 <?php
-$pageTitle = "iChronoz Demo Hotel Cirebon";
+$pageTitle = "iChronoz Demo Hotel";
 $currentYear = date('Y');
 
 $rooms = [
@@ -272,7 +272,7 @@ function rupiah($amount)
         <div class="booking-box p-4 p-lg-5">
 
             <!-- iChronoz Content -->
-                <?php include __DIR__ . '/ichronoz_html/booking-list.php'; ?>
+                <?php include __DIR__ . '/ichronoz/booking-list.php'; ?>
             <!-- End iChronoz Content -->
 
         </div>
@@ -354,7 +354,7 @@ function rupiah($amount)
 
                 <p class="text-white-50">
                     <i class="bi bi-envelope me-2"></i>
-                    reservation@azurebayhotel.com
+                    reservation@ichronoz.com
                 </p>
 
             </div>
